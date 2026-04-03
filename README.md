@@ -21,7 +21,7 @@ PotatoDiseasePredictor/
 ├── scripts/                        # Data processing and training scripts
 ├── report_figures/                 # Visualizations and analysis figures
 ├── sample_test_images/             # Sample images for testing
-└── README.md                        # This file
+└── README.md                       # This file
 ```
 
 ## Installation
