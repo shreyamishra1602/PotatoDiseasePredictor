@@ -1,0 +1,45 @@
+{
+  "classes": {
+    "Potato___Early_blight": 0,
+    "Potato___Late_blight": 1,
+    "Potato___healthy": 2
+  },
+  "num_classes": 3,
+  "class_names": [
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Potato___healthy"
+  ],
+  "stats": {
+    "extraction": {
+      "Potato___Early_blight": 1000,
+      "Potato___Late_blight": 1000,
+      "Potato___healthy": 152
+    },
+    "split": {
+      "train": {
+        "Potato___Early_blight": 800,
+        "Potato___Late_blight": 800,
+        "Potato___healthy": 121
+      },
+      "val": {
+        "Potato___Early_blight": 200,
+        "Potato___Late_blight": 200,
+        "Potato___healthy": 31
+      }
+    }
+  },
+  "image_size": 224,
+  "normalization": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  }
+}

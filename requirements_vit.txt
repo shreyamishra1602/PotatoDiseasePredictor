@@ -1,0 +1,28 @@
+# Core ML/DL - Mac MPS compatible
+torch>=2.1.0
+torchvision>=0.16.0
+timm>=0.9.7
+
+# Traditional ML
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Web Framework
+streamlit>=1.28.0
+
+# Kaggle API
+kaggle>=1.5.16
+
+# Utilities
+tqdm>=4.66.0
+requests>=2.31.0

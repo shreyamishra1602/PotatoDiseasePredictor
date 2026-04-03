@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/models/*.pkl
+data/models/*.pth
+*.log
+.DS_Store
+potato_disease_predictor.zip
+potato_disease_predictor/data/models/vit_best.pth
+potato_disease_predictor/data/models/vit_final.pth
